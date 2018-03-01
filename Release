@@ -4,6 +4,6 @@ Suite: stable
 Version: 1.0
 Codename: Midcoreboot
 Architectures: iphoneos-arm
-Components:main
+Components: main
 Description: Midcoreboot's Repo
 MD5Sum:
