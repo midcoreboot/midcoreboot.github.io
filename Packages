@@ -3,7 +3,7 @@ Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: midcoreboot <rasmus.kolmodin@gmail.com>
 Depends: mobilesubstrate
-Filename: debs//com.midcoreboot.hidebadgesxi_0.0.1.deb
+Filename: debs//com.midcoreboot.hidebadgesxi.deb
 Size: 2948
 MD5sum: 68994a6818e3604798288ca4eb63ad7c
 SHA1: 6e2cd010ab61db3f9b0d3f3dc65fc6bc1e5e9880
