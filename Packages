@@ -1,0 +1,15 @@
+Package: com.midcoreboot.hidebadgesxi
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: midcoreboot <rasmus.kolmodin@gmail.com>
+Depends: mobilesubstrate
+Filename: debs//com.midcoreboot.hidebadgesxi_0.0.1.deb
+Size: 2948
+MD5sum: 68994A6818E3604798288CA4EB63AD7C
+SHA1: 6e2cd010ab61db3f9b0d3f3dc65fc6bc1e5e9880
+SHA256: d457f9765c31cb66739cfcb20c287c8815ca3a89322ebe7b070bd5d1c8a7724e
+Section: Tweaks
+Description: Hide icon notification badges in springboard.
+Author: Midcoreboot
+Depiction: http://midcoreboot.github.io/depic/index.html?p=com.midcoreboot.hidebadgesxi
+Name: HideBadgesXI

@@ -1,0 +1,38 @@
+<package>
+	<id>com.midcoreboot.hidebadgesxi	</id>
+	<name>Full Package</name>
+	<version>0.0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.1</miniOS>
+			<miniOS>11.1.1</miniOS>
+			<miniOS>11.1.2</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<descriptionlist>
+		<description>HideBadgesXI - A tweak to remove Icon Badges</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Screenshot</description>
+			<image>HideLabel.PNG</image>
+		</screenshot>			
+	</screenshots>
+	<changelog>
+		<change>Initial Release.</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Reddit</name>
+			<url>https://www.reddit.com/user/Midcoreboot/</url>
+		</link>
+		
+		<link>
+			<name>Twitter</name>
+			<url>https://twitter.com/midcoreboot</url>
+		</link>
+	</links>
+</package>
