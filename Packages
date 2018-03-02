@@ -1,7 +1,7 @@
 Package: com.midcoreboot.hidebadgesxi
 Version: 0.0.1
 Architecture: iphoneos-arm
-Maintainer: midcoreboot <rasmus.kolmodin@gmail.com>
+Maintainer: midcoreboot <rasmus.kolmodin@gmail.com
 Depends: mobilesubstrate
 Filename: debs//com.midcoreboot.hidebadgesxi.deb
 Size: 2948
