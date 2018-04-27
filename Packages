@@ -15,27 +15,13 @@ Depiction: http://midcoreboot.github.io/depic/index.html?p=com.midcoreboot.hideb
 Name: HideBadgesXI
 
 
+
 Package: com.midcoreboot.zolivolxi
 Version: 0.0.1
+Depiction: http://midcoreboot.github.io/depic/index.html?p=com.midcoreboot.zolivolxi
 Architecture: iphoneos-arm
 Maintainer: midcoreboot <rasmus.kolmodin@gmail.com
 Filename: debs//com.midcoreboot.zolivolxi.deb
-Size: 4810
-MD5sum: 22F0E6AF95D5A64B337FDED43598A145
-SHA1: 9D2C83A4F9F2B2240FCA8F85505EEBEFBC93DCC2
-SHA256: ca536f22fee5faae31512cc67087eaaa1a2c8daed07f7089866f3abafaf92bfc
-Section: Tweaks
-Description: Simple HUD tweak!
-Depiction: http://midcoreboot.github.io/depic/index.html?p=com.midcoreboot.zolivolxi
-Author: Midcore
-Name: ZoliVolXI
-
-
-Package: com.midcoreboot.zolivolxi
-Version: 0.0.1
-Architecture: iphoneos-arm
-Maintainer: midcoreboot <rasmus.kolmodin@gmail.com
-Filename: /com.midcoreboot.zolivolxi.deb
 Size: 4810
 MD5sum: 22f0e6af95d5a64b337fded43598a145
 SHA1: 9d2c83a4f9f2b2240fca8f85505eebefbc93dcc2
