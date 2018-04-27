@@ -21,10 +21,10 @@ Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: midcoreboot <rasmus.kolmodin@gmail.com
 Filename: debs//com.midcoreboot.zolivolxi.deb
-Size: 6090
-MD5sum: 60f17f5af4c1b8cdec41335bda1cd635
-SHA1: 052fe8078b8e5db7c036c3affa5c8c4581049937
-SHA256: f31d76542421770e970af0c808654fdc9d601343bf611fd7d4df9a5db1a35810
+Size: 5490
+MD5sum: 8b13573ea68d1f81ed54f700acf06251
+SHA1: 339d014aba2c814486aa04b5ac64375908fb8058
+SHA256: 4ccc7e06face85b38627e20406b637d6d905ecc4db6ab45819cc8d2cb64a8e84
 Section: Tweaks
 Description: Simple HUD tweak!
 Author: Midcore
