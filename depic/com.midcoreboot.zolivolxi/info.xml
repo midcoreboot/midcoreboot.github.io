@@ -1,5 +1,5 @@
 <package>
-	<id>com.midcoreboot.hidebadgesxi</id>
+	<id>com.midcoreboot.zolivolxi</id>
 	<name>Full Package</name>
 	<version>0.0.1</version>
 	<compatibility>
@@ -11,7 +11,7 @@
 		<package>mobilesubstrate</package>
 	</dependencies>
 	<descriptionlist>
-		<description>HideBadgesXI - A tweak to remove Icon Badges</description>
+		<description>ZoliVolXI - A simple volume hud Tweak</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
