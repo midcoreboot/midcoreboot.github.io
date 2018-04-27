@@ -26,6 +26,6 @@ SHA1: c9fede8cf282e84f27b5ccfc941cb968b0b533ce
 SHA256: c9c6d3fb028de0ef4d60ab8a99c047b28a342c4afcea5d39c45f29b6cf1545a7
 Section: Tweaks
 Description: Simple HUD tweak!
-Depiction: http://midcoreboot.github.io/depic/index.html?p=com.midcoreboot.hidebadgesxi
+Depiction: http://midcoreboot.github.io/depic/index.html?p=com.midcoreboot.zolivolxi
 Author: Midcore
 Name: ZoliVolXI
