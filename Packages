@@ -18,7 +18,7 @@ Name: HideBadgesXI
 
 Package: com.midcoreboot.zolivolxi
 Version: 0.0.1
-Depiction: http://midcoreboot.github.io/depic/index.html?p=com.midcoreboot.zolivolxi
+Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Maintainer: midcoreboot <rasmus.kolmodin@gmail.com
 Filename: debs//com.midcoreboot.zolivolxi.deb
@@ -29,4 +29,5 @@ SHA256: ca536f22fee5faae31512cc67087eaaa1a2c8daed07f7089866f3abafaf92bfc
 Section: Tweaks
 Description: Simple HUD tweak!
 Author: Midcore
+Depiction: http://midcoreboot.github.io/depic/index.html?p=com.midcoreboot.zolivolxi
 Name: ZoliVolXI
