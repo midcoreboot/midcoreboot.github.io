@@ -19,7 +19,7 @@ Package: com.midcoreboot.zolivolxi
 Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: midcoreboot <rasmus.kolmodin@gmail.com
-Filename: debs//com.midcoreboot.zolivolxi_0.0.1.deb
+Filename: debs//com.midcoreboot.zolivolxi.deb
 Size: 4816
 MD5sum: a41b2d01e9bdfa26c9c49c4530abb149
 SHA1: c9fede8cf282e84f27b5ccfc941cb968b0b533ce
